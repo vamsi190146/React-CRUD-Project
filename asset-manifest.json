@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vamsi190146/React-CRUD-Project.git/static/css/main.f251f349.css",
+    "main.js": "/vamsi190146/React-CRUD-Project.git/static/js/main.b6639c91.js",
+    "index.html": "/vamsi190146/React-CRUD-Project.git/index.html",
+    "main.f251f349.css.map": "/vamsi190146/React-CRUD-Project.git/static/css/main.f251f349.css.map",
+    "main.b6639c91.js.map": "/vamsi190146/React-CRUD-Project.git/static/js/main.b6639c91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f251f349.css",
+    "static/js/main.b6639c91.js"
+  ]
+}
