@@ -1,4 +1,4 @@
-# CRUD Operations with Photo Upload
+# CRUD Operations Using React.
 
 This project demonstrates CRUD (Create, Read, Update, Delete) operations including photo upload functionality using React.js.
 
